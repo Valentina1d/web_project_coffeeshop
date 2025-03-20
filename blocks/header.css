@@ -25,6 +25,11 @@
     top: 30px;
     left: 80px;
 }
+.logo {
+    width: 120px;
+    height: auto;
+}
+
 
 .header__title {
     margin: 150px 0 0;
