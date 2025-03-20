@@ -1,0 +1,12 @@
+.logo {
+    width: 125px;
+    height: 142px;
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
